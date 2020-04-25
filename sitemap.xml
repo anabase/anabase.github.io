@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/02/09/concepts-for-controlling-microbial-threats-to-human-health/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/covid-19/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/infection-control/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/infectious-diseases/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/isolation/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/novel-coronavirus/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pandemic/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/quarantine/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/face-masks/</loc>
+    <lastmod>2020-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/n95/</loc>
+    <lastmod>2020-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/02/08/prioritizing-face-masks-and-respirators-during-shortages/</loc>
+    <lastmod>2020-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/respirators/</loc>
+    <lastmod>2020-02-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-science/</loc>
+    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/11/16/decision-quality-problem-solving-and-data-science/</loc>
+    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/decision-making/</loc>
+    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/implementation-science/</loc>
+    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/lean/</loc>
+    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bibdesk/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bibtex/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/09/22/guide-for-setting-up-your-mac-os-to-write-technical-papers/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/latex/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mac-os/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mactex/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pandoc/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-programming/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rstudio/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/scientific-writing/</loc>
+    <lastmod>2019-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cannabis/</loc>
+    <lastmod>2019-07-20T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/pubmed/</loc>
+    <lastmod>2019-07-20T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/07/12/writing-technical-content-in-academic/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/books/</loc>
+    <lastmod>2019-03-24T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/</loc>
+    <lastmod>2019-03-24T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/phd/</loc>
+    <lastmod>2019-03-24T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-03-24T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/publications/</loc>
+    <lastmod>2019-03-24T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/articles-reports/</loc>
+    <lastmod>2019-03-24T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/slides/</loc>
+    <lastmod>2019-03-24T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/slides/</loc>
+    <lastmod>2019-03-24T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/teaching/</loc>
+    <lastmod>2019-03-24T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/teaching/</loc>
+    <lastmod>2019-03-24T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/02/05/display-jupyter-notebooks-with-academic/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/equity/</loc>
+    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/11/30/proposed-public-charge-rule-threatens-health-and-economy/</loc>
+    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/racism/</loc>
+    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/trauma/</loc>
+    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tutorial/example/</loc>
+    <lastmod>2018-09-09T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tutorial/</loc>
+    <lastmod>2018-09-09T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/08/11/criteria-weights-for-decision-making-the-easy-way/</loc>
+    <lastmod>2018-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/leadership/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/management/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/power/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/privilege/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/06/30/workplace-power-privilege-and-equity-whats-the-connection/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/book-review/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/brain-science/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/causality/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/emotional-intelligence/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/history-of-science/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/06/11/how-emotions-are-made-the-secret-life-of-the-brain/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mindfulness/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/program-theory/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/06/11/the-book-of-why-the-new-science-of-cause-and-effect/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/graphviz/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/03/16/program-theory-is-for-the-dags-part-2/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-package/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/harm-reduction/</loc>
+    <lastmod>2017-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/12/27/how-to-give-advice-for-lower-risk-cannabis-use/</loc>
+    <lastmod>2017-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/substance-use/</loc>
+    <lastmod>2017-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cognitive-bias/</loc>
+    <lastmod>2017-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/12/08/how-you-actually-make-decisions-will-surprise-you/</loc>
+    <lastmod>2017-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/implicit-bias/</loc>
+    <lastmod>2017-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/11/08/cannabis-legalization-in-san-francisco-a-health-impact-assessment/</loc>
+    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/health-impact-assessment/</loc>
+    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/11/01/the-intersection-of-black-lives-matter-and-public-health/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/videos/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/epidemiology/</loc>
+    <lastmod>2017-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/10/26/epitools-r-tools-for-public-health-epidemiologists/</loc>
+    <lastmod>2017-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/performance-improvement/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/10/23/the-leading-population-health-framework-a-transformation-road-map/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/team-skills/</loc>
+    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/10/20/the-7-principles-of-building-trust/</loc>
+    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/trust/</loc>
+    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/10/19/embodying-cultural-humility/</loc>
+    <lastmod>2017-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/humility/</loc>
+    <lastmod>2017-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2016/04/20/academic-the-website-builder-for-hugo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2015/07/23/hello-r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
